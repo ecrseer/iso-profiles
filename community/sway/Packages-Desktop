@@ -21,7 +21,8 @@ manjaro-pipewire
 
 # Greeter
 greetd
-greetd-tuigreet
+#greetd-tuigreet
+greetd-tuigreet-bin
 
 # Browser
 firefox
